@@ -22,6 +22,9 @@ Berikut adalah contoh penggunaan program:
 Masukkan sisi kubus : 5
 Hasil volume kubus dengan sisi 5.0 adalah = 125.0
 
+program di atas digunakan untuk menghitung volume kubus
+
+
 
 ## Kontributor
 
